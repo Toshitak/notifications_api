@@ -1,0 +1,68 @@
+{
+  "notificationsData": [
+    {
+      "id": 1,
+      "message": "Your bid is out of range",
+      "description": "Your bid for HP Note book has dropped below the winning range.",
+      "timestamp": "29-Dec-2023 12:46:30 PM",
+      "type": "outOfRange"
+    },
+    {
+      "id": 2,
+      "message": "Devices delivered",
+      "description": "Our courier has successfully delivered Your shipment.",
+      "timestamp": "29-Dec-2023 09:46:30 AM",
+      "type": "deviceDelivered"
+    },
+    {
+      "id": 3,
+      "message": "Your bid is out of range",
+      "description": "Your bid for HP Note book has dropped below the winning range.",
+      "timestamp": "28-Dec-2023 09:26:30 AM",
+      "type": "outOfRange"
+    },
+    {
+      "id": 4,
+      "message": "Huawei, Nova Series, Nova Y91, 512GB",
+      "description": "Similar to your previous bids, here is a new device you might be interested in.",
+      "timestamp": "26-Dec-2023 09:26:30 AM",
+      "type": "newDeal"
+    },
+    {
+      "id": 5,
+      "message": "Grade Change Request Updated",
+      "description": "Please provide additional and clear pictures of the device for us to proceed with your request.",
+      "timestamp": "25-Dec-2023 09:26:30 AM",
+      "type": "gradeChange"
+    },
+    {
+      "id": 6,
+      "message": "Your bid is out of range",
+      "description": "Your bid for HP Note book has dropped below the winning range.",
+      "timestamp": "25-Dec-2023 12:26:30 PM",
+      "type": "outOfRange"
+    },
+    {
+      "id": 7,
+      "message": "Your bid is out of range",
+      "description": "Your bid for HP Note book has dropped below the winning range.",
+      "timestamp": "25-Dec-2023 09:26:30 PM",
+      "type": "outOfRange"
+    },
+    {
+      "id": 8,
+      "message": "Your bid is out of range",
+      "description": "Your bid for HP Note book has dropped below the winning range.",
+      "timestamp": "20-Dec-2023 11:26:30 AM",
+      "type": "outOfRange"
+    },
+    {
+      "id": 9,
+      "message": "New Hot Deal on Samsung S21 Ultra",
+      "description": "Bid on the latest Samsung galaxies in almost flawless conditions",
+      "timestamp": "28-Nov-2023 12:48:22 PM",
+      "type": "SamsungS21Ultra",
+      "imageUrl": "/samsung-s21-ultra.png"
+    }
+  ]
+}
